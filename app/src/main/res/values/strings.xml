@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Weather Check</string>
+
+    <!-- weather_activity_strings -->
+    <string name="hello">Hello,</string>
+    <string name="city_name">Displays name of current city</string>
+    <string name="image_description">Displays an icon representation of the current weather.</string>
+    <string name="temp">89\u00B0</string>
+
+    <!-- Greeting Strings -->
+    <string name="good_morning">Good morning!</string>
+    <string name="good_afternoon">Good afternoon</string>
+    <string name="good_evening">Good evening!</string>
+
+    <!-- Weather specific strings -->
+    <string name="sunny_day">Sunny day in,</string>
+    <string name="rainy_day">Rainy day in,</string>
+    <string name="foggy_day">Foggy day in,</string>
+    <string name="snowy_day">Snowy day in,</string>
+
+    <!-- Sunset/Sunrise -->
+    <string name="sunset">Sunset is at:</string>
+    <string name="sunrise">Sunrise is at:</string>
 </resources>

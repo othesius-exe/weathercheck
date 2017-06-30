@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <!-- Text sizes -->
+    <dimen name="headerTextSize">24sp</dimen>
+    <dimen name="primaryTextSize">22sp</dimen>
+    <dimen name="secondaryTextSize">18sp</dimen>
+    <dimen name="tempTextSize">40sp</dimen>
+
+    <!-- MainActivity View Dimens -->
+    <!-- Header Dimens -->
+    <dimen name="header_text_view_height">54dp</dimen>
+    <dimen name="header_padding_top">10dp</dimen>
+    <dimen name="header_padding_start">16dp</dimen>
+
+    <!-- Weather Image Dimens -->
+    <dimen name="weather_info_height">80dp</dimen>
+    <dimen name="image_margin_top">10dp</dimen>
+
+    <!-- Temperature TextView Dimens -->
+    <dimen name="temp_view_height">48dp</dimen>
+    <dimen name="temp_padding">28dp</dimen>
+
+</resources>

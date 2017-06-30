@@ -6,6 +6,36 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@color/colorPrimaryDark</item>
+        <item name="android:actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+    </style>
+
+    <style name="weather_header_style">
+        <item name="android:textSize">@dimen/headerTextSize</item>
+        <item name="android:layout_height">@dimen/header_text_view_height</item>
+        <item name="android:paddingTop">@dimen/header_padding_top</item>
+        <item name="android:paddingLeft">@dimen/header_padding_start</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/sunny</item>
+    </style>
+
+    <style name="weather_image_style">
+        <item name="android:tint">@color/sunny</item>
+        <item name="android:paddingLeft">@dimen/header_padding_start</item>
+        <item name="android:gravity">left</item>
+    </style>
+
+    <style name="temp_view_style">
+        <item name="android:textColor">@color/sunny</item>
+        <item name="android:textSize">@dimen/tempTextSize</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:gravity">center_vertical|right</item>
+        <item name="android:paddingLeft">@dimen/header_padding_start</item>
+        <item name="android:paddingRight">@dimen/temp_padding</item>
     </style>
 
 </resources>

@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <!-- Text Colors -->
+    <color name="primaryText">#FFF</color>
+    <color name="secondaryText">#ECEFF1</color>
+    <color name="warmText">#FFAB00</color>
+    <color name="coolText">#00B8D4</color>
+
+    <!-- Temperature Colors -->
+    <!-- Warm Colors -->
+    <!-- 100 + degrees -->
+    <color name="extremelyHot">#DD2C00</color>
+    <!-- 90 - 99 Degrees -->
+    <color name="veryHot">#D84315</color>
+    <!-- 80 - 89 Degrees -->
+    <color name="hot">#F4511E</color>
+    <!-- 70 - 79 Degrees -->
+    <color name="warm">#FF5722</color>
+    <!-- 60 - 69 Degrees -->
+    <color name="moderate">#FBC02D</color>
+
+    <!-- Cool Colors -->
+    <!-- 50 - 59 Degrees -->
+    <color name="cool">#FDD835</color>
+    <!-- 40 - 49 Degrees -->
+    <color name="chilly">#9FA8DA</color>
+    <!-- 30 - 39 Degrees -->
+    <color name="cooler">#7986CB</color>
+    <!-- 20 - 29 Degrees -->
+    <color name="cold">#5C6BC0</color>
+    <!-- 10 - 19 Degrees -->
+    <color name="colder">#3F51B5</color>
+    <!-- 1 - 9 Degrees -->
+    <color name="bitterCold">#303F9F</color>
+    <!-- < 1 Degree -->
+    <color name="freezing">#1A237E</color>
+
+    <!-- Icon Image Colors -->
+    <!-- Sunshine -->
+    <color name="sunny">#FFEB3B</color>
+    <!-- Windy or Rainy -->
+    <color name="rainy">#607D8B</color>
+    <!-- Foggy -->
+    <color name="foggy">#9E9E9E</color>
+    <!-- Sunset -->
+    <color name="sunset">#FF6D00</color>
+    <!-- Sunrise -->
+    <color name="sunrise">#FFD600</color>
+    <!-- Snowy -->
+    <color name="snow">#ffffff</color>
 </resources>
